@@ -33,7 +33,7 @@ Jira allows you to customize the types of issues that can be created within your
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/7aec01a5-d8a2-433a-8aa2-dfe50c9695b3)
 </p>
-<br>
+<br />
 
 <h3> Standard Issue Types for IT Help Desk: </h3>
 
@@ -42,35 +42,35 @@ Bug Report
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/2d77b8a9-ddfb-45d7-8406-efc5a00a3329)
 </p>
-<br>
+<br />
 
 Hardware Request 
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/24ce1ba1-122a-4f74-be79-1ae6d815abe0)
 </p>
-<br>
+<br />
 
 Software Installation
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/2551a4cd-78fb-45fe-96ef-bc18bbcf4b78)
 </p>
-<br>
+<br />
 
 Network Issue  
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/3c326839-699a-4811-ac33-6d14341db943)
 </p>
-<br>
+<br />
 
 Access Request
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/fafd3911-be4c-470c-951e-bb9330a8d71b)
 </p>
-<br>
+<br />
 
 <h2> Defining a Workflow </h2>
 
@@ -79,13 +79,13 @@ A workflow defines the lifecycle of an issue, from creation to resolution. Custo
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/ac8cfd4e-b804-4850-bd0c-4e8aa72bd225)
 </p>
-<br>
+<br />
 
 <h3>Standard Workflow Stages for IT Help Desk: </h3>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/62d4fc6d-de34-46f7-a018-5649b7bdd244)
 </p>
-<br>
+<br />
 
 - Open:</strong> The initial status of a new issue.
 </p>
@@ -104,7 +104,7 @@ A workflow defines the lifecycle of an issue, from creation to resolution. Custo
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/b351e617-0085-4340-96c5-925a157013d1)
 </p>
-<br>
+<br />
 
 <h2>Custom Fields</h2>
 
@@ -112,6 +112,8 @@ Custom fields allow you to capture specific information related to different iss
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/fd9e694a-a058-44e2-8148-113640e5e2b5)
+</p>
+<br />
 
 - Severity Level:</strong> Helps prioritize issues based on their impact on the business.
 </p>
@@ -127,7 +129,7 @@ Custom fields allow you to capture specific information related to different iss
 
 - Root Cause Analysis:</strong> A text field for documenting the underlying cause of the issue once it has been identified. This is valuable for preventing future occurrences.
 </p>
-<br>
+<br />
 
 <h2>Customizing Screens</h2>
 
@@ -136,7 +138,7 @@ Screens in Jira determine which fields are displayed to users when they create, 
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/5a5255a2-97d2-4bbd-8bb5-4986ade64e62)
 </p>
-<br>
+<br />
 
 <h2>Understanding Jira Automation</h2>
 
@@ -145,7 +147,7 @@ Jira Automation is a powerful tool that allows you to create rules based on trig
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/02fe1f17-e010-42f6-b633-e4e5204f3768)
 </p>
-<br>
+<br />
 
 <h3>Key Concepts for Automation</h3>
 
@@ -177,7 +179,7 @@ Notifying Team Members of High-Severity Issues
 - Condition: Issue severity is set to "Critical."
 - Action: Send an email notification to the Admins
 
-<img width="624" alt="Example 2" src="https://github.com/kirkgacias/jira-configuration/assets/158519921/545e840c-c7ee-4cbc-9fc1-2597003b9213">
+
 
 Automated Reminders for Pending Issues
 </p>
@@ -186,7 +188,8 @@ Automated Reminders for Pending Issues
 - Condition: Check for issues in "In Progress" status for more than a specified time (e.g., 3 days).
 - Action: Send a reminder to the assignee or post a comment on the issue.
 
-<img width="624" alt="pending issues" src="https://github.com/kirkgacias/jira-configuration/assets/158519921/58321453-d43a-460a-b9e1-861fa8fdf4ac">
+![image](https://github.com/TechwTre/jira-configuration/assets/126909509/e9169c4d-b735-47aa-82e5-75b4bcddf830)
+
 
 
 <h2>Lesson Learned</h2>
