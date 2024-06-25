@@ -37,35 +37,35 @@ Jira allows you to customize the types of issues that can be created within your
 
 <h3> Standard Issue Types for IT Help Desk: </h3>
 
-1. Bug Report 
+Bug Report 
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/2d77b8a9-ddfb-45d7-8406-efc5a00a3329)
 </p>
 <br>
 
-2. Hardware Request 
+Hardware Request 
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/24ce1ba1-122a-4f74-be79-1ae6d815abe0)
 </p>
 <br>
 
-3. Software Installation
+Software Installation
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/2551a4cd-78fb-45fe-96ef-bc18bbcf4b78)
 </p>
 <br>
 
-4. Network Issue  
+Network Issue  
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/3c326839-699a-4811-ac33-6d14341db943)
 </p>
 <br>
 
-5. Access Request
+Access Request
 </p>
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/fafd3911-be4c-470c-951e-bb9330a8d71b)
