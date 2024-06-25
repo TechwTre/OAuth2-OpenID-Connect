@@ -189,7 +189,7 @@ Automated Reminders for Pending Issues
 <img width="624" alt="pending issues" src="https://github.com/kirkgacias/jira-configuration/assets/158519921/58321453-d43a-460a-b9e1-861fa8fdf4ac">
 
 
-<h2> Conclusion</h2>
+<h2>Lesson Learned</h2>
 
 The "Jira Service Management: Configuration, Workflows, and Automation" project showcases the various features of Jira that optimize IT service management processes. By carefully configuring Jira Service Management, designing efficient workflows, and implementing smart automation, organizations can significantly improve the speed, accuracy, and quality of their IT services.
 </p>
