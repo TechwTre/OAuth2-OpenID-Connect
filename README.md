@@ -79,10 +79,6 @@ A workflow defines the lifecycle of an issue, from creation to resolution. Custo
 
 <h3>Standard Workflow Stages for IT Help Desk: </h3>
 
-![image](https://github.com/TechwTre/jira-configuration/assets/126909509/62d4fc6d-de34-46f7-a018-5649b7bdd244)
-</p>
-<br />
-
 - Open:</strong> The initial status of a new issue.
 </p>
 
@@ -97,6 +93,10 @@ A workflow defines the lifecycle of an issue, from creation to resolution. Custo
 
 - Closed:</strong> The issue is fully resolved and closed.
 </p>
+
+![image](https://github.com/TechwTre/jira-configuration/assets/126909509/62d4fc6d-de34-46f7-a018-5649b7bdd244)
+</p>
+<br />
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/b351e617-0085-4340-96c5-925a157013d1)
 </p>
@@ -167,6 +167,8 @@ Auto-Assigning Issues Based on Severity or Type
 - Action: Assign the issue to a specific user or group responsible for that type of issue.
 
 <img width="403" alt="Example 1" src="https://github.com/kirkgacias/jira-configuration/assets/158519921/3a1792b1-9bba-432b-9b3f-a8afa2f37bec">
+</p>
+<br />
 
 Notifying Team Members of High-Severity Issues
 </p>
@@ -185,8 +187,8 @@ Automated Reminders for Pending Issues
 - Action: Send a reminder to the assignee or post a comment on the issue.
 
 ![image](https://github.com/TechwTre/jira-configuration/assets/126909509/e9169c4d-b735-47aa-82e5-75b4bcddf830)
-
-
+</p>
+<br />
 
 <h2>Lesson Learned</h2>
 
