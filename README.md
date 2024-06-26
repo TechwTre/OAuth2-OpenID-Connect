@@ -7,18 +7,14 @@ This project aims to enhance IT support efficiency by leveraging Jira's robust c
 
 <h2>Objectives</h2>
 
-<h4> Streamline Ticket Management: </h4>
-
+Streamline Ticket Management: 
 - Simplify the process of creating, tracking, and managing tickets through customized workflows and fields tailored to various types of IT support requests.
 
-<h4> Automate Routine Tasks: </h4>
-
+Automate Routine Tasks: 
 - Implement automation rules to handle repetitive tasks such as ticket assignments, status updates, and notifications.
 
-<h4> Enhance Communication: </h4>
-
+Enhance Communication: 
 - Facilitate better communication within the support team and with end-users through automated notifications and updates.
-
 </p>
 
 <h2> Environments and Technologies Used </h2>
